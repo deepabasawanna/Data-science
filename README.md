@@ -1,2 +1,2 @@
 # Data-science
-This has all project details about data science.
+This has all project files regarding data science.
